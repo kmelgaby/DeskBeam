@@ -1,0 +1,9 @@
+/target/
+*.log
+deskbeam-selftest.txt
+/DeskBeam.exe
+/re_analysis/strings_ascii.txt
+/re_analysis/strings_utf16.txt
+
+# Third-party reference sample, not part of the project
+/AnyDesk.exe
